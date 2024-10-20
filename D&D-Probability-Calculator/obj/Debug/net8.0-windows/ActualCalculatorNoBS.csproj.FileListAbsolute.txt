@@ -1,0 +1,17 @@
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\bin\Debug\net8.0-windows\ActualCalculatorNoBS.exe
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\bin\Debug\net8.0-windows\ActualCalculatorNoBS.deps.json
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\bin\Debug\net8.0-windows\ActualCalculatorNoBS.runtimeconfig.json
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\bin\Debug\net8.0-windows\ActualCalculatorNoBS.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\bin\Debug\net8.0-windows\ActualCalculatorNoBS.pdb
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.Form1.resources
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.csproj.GenerateResource.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.AssemblyInfoInputs.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.AssemblyInfo.cs
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.csproj.CoreCompileInputs.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\refint\ActualCalculatorNoBS.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.pdb
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.genruntimeconfig.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ref\ActualCalculatorNoBS.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\ActualCalculatorNoBS\ActualCalculatorNoBS\obj\Debug\net8.0-windows\ActualCalculatorNoBS.sourcelink.json

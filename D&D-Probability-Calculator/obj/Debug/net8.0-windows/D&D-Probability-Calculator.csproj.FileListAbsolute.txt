@@ -1,0 +1,17 @@
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\bin\Debug\net8.0-windows\D&D-Probability-Calculator.exe
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\bin\Debug\net8.0-windows\D&D-Probability-Calculator.deps.json
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\bin\Debug\net8.0-windows\D&D-Probability-Calculator.runtimeconfig.json
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\bin\Debug\net8.0-windows\D&D-Probability-Calculator.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\bin\Debug\net8.0-windows\D&D-Probability-Calculator.pdb
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.csproj.GenerateResource.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.AssemblyInfoInputs.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.AssemblyInfo.cs
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.sourcelink.json
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\refint\D&D-Probability-Calculator.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.pdb
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\D&D-Probability-Calculator.genruntimeconfig.cache
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\ref\D&D-Probability-Calculator.dll
+C:\Users\johns\Desktop\D&D-Propability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\D&D-Probability-Calculator\obj\Debug\net8.0-windows\DnDProbabilityCalculator.Form1.resources
